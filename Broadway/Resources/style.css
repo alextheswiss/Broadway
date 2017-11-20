@@ -39,6 +39,11 @@ h3 {
   color: black;
 }
 
+#copyright {
+  color: white;
+  text-align: left;
+}
+
 p {
   font-family: Helvetica;
   font-size: 14px;
@@ -47,6 +52,7 @@ p {
 
 .end {
   font-size: 11px;
-  color: white;
   background-color: dimgray;
+  color: white;
+  text-align: left;
 }
