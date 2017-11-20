@@ -44,3 +44,9 @@ p {
   font-size: 14px;
   color: black;
 }
+
+.end {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
